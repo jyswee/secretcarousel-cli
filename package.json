@@ -1,0 +1,36 @@
+{
+  "name": "secretcarousel",
+  "version": "2.2.0",
+  "description": "The agent-first secret vault CLI. Store, rotate, and share secrets from any AI coding agent.",
+  "bin": {
+    "secretcarousel": "bin/cli.js",
+    "sc": "bin/cli.js"
+  },
+  "files": ["bin/", "dist/"],
+  "scripts": {
+    "build": "node scripts/build.js",
+    "prepublishOnly": "npm run build"
+  },
+  "engines": { "node": ">=18.0.0" },
+  "keywords": [
+    "secretcarousel",
+    "secrets",
+    "vault",
+    "agent-first",
+    "cli",
+    "encryption",
+    "rotation",
+    "api-key",
+    "ai-agents",
+    "coding-agents",
+    "claim-tokens",
+    "secret-management"
+  ],
+  "author": "Joe Wee <joe@tyga.cloud>",
+  "license": "SEE LICENSE IN LICENSE",
+  "homepage": "https://secretcarousel.com",
+  "repository": {
+    "type": "git",
+    "url": "https://secretcarousel.com"
+  }
+}

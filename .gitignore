@@ -1,0 +1,11 @@
+node_modules/
+src/
+dist/
+scripts/
+tests/
+.env*
+.sc/
+.DS_Store
+*.log
+*.tgz
+CLAUDE.md

@@ -1,0 +1,89 @@
+SecretCarousel Software License
+
+Copyright (c) 2026 Tyga.Cloud Ltd
+Company number 14643275, England and Wales
+Registered office: Ground Floor, Unit 2 Mallard Court, Mallard Way,
+Crewe Business Park, Crewe, Cheshire, England, CW1 6ZQ
+
+1. GRANT OF LICENSE
+
+   Permission is granted to install and use this software solely to
+   interact with the SecretCarousel service (https://secretcarousel.com)
+   using a valid API key issued by SecretCarousel (prefix: sc_).
+
+2. RESTRICTIONS
+
+   You may NOT:
+   (a) modify, adapt, translate, or create derivative works of this
+       software;
+   (b) reverse-engineer, decompile, disassemble, or otherwise attempt
+       to derive the source code of this software;
+   (c) redistribute this software outside of the npm package registry
+       (https://www.npmjs.com/package/secretcarousel);
+   (d) sublicense, sell, lease, or otherwise transfer this software
+       to third parties;
+   (e) remove or alter any proprietary notices, labels, or marks.
+
+3. DISCLAIMER OF WARRANTIES
+
+   THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND
+   NONINFRINGEMENT. TYGA.CLOUD LTD DOES NOT WARRANT THAT THE SOFTWARE
+   WILL BE UNINTERRUPTED, ERROR-FREE, OR SECURE.
+
+4. LIMITATION OF LIABILITY
+
+   IN NO EVENT SHALL TYGA.CLOUD LTD, ITS DIRECTORS, OFFICERS,
+   EMPLOYEES, OR AGENTS BE LIABLE FOR ANY INDIRECT, INCIDENTAL,
+   SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING BUT NOT
+   LIMITED TO LOSS OF PROFITS, DATA, USE, GOODWILL, OR OTHER
+   INTANGIBLE LOSSES, ARISING OUT OF OR IN CONNECTION WITH YOUR USE
+   OF THIS SOFTWARE, WHETHER BASED ON WARRANTY, CONTRACT, TORT
+   (INCLUDING NEGLIGENCE), OR ANY OTHER LEGAL THEORY, EVEN IF
+   TYGA.CLOUD LTD HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
+   DAMAGES.
+
+   THE TOTAL LIABILITY OF TYGA.CLOUD LTD SHALL NOT EXCEED THE
+   GREATER OF (A) THE AMOUNTS PAID BY YOU TO TYGA.CLOUD LTD IN
+   THE TWELVE (12) MONTHS PRECEDING THE CLAIM, OR (B) ONE HUNDRED
+   POUNDS STERLING (GBP 100).
+
+5. INDEMNIFICATION
+
+   You agree to indemnify, defend, and hold harmless Tyga.Cloud Ltd,
+   its directors, officers, employees, and agents from and against
+   any and all claims, damages, losses, liabilities, costs, and
+   expenses (including reasonable legal fees) arising out of or
+   relating to:
+   (a) your use of this software;
+   (b) your violation of this license;
+   (c) your violation of any applicable law or regulation;
+   (d) any data or content you store, transmit, or process using
+       the SecretCarousel service.
+
+6. DATA PROCESSING
+
+   Your use of this software may involve the transmission of data to
+   SecretCarousel servers. All data is encrypted in transit (TLS) and
+   at rest (AES-256-GCM). By using this software you acknowledge and
+   agree to the SecretCarousel Privacy Policy.
+
+7. TERMINATION
+
+   This license is effective until terminated. Tyga.Cloud Ltd may
+   terminate this license at any time if you fail to comply with any
+   term. Upon termination, you must cease all use and destroy all
+   copies of this software.
+
+8. GOVERNING LAW
+
+   This license shall be governed by and construed in accordance with
+   the laws of England and Wales. Any disputes arising under this
+   license shall be subject to the exclusive jurisdiction of the
+   courts of England and Wales.
+
+Terms of Service: https://secretcarousel.com/terms
+Privacy Policy: https://secretcarousel.com/privacy
+
+"SecretCarousel" is a trademark of Tyga.Cloud Ltd.
